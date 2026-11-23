@@ -1,0 +1,85 @@
+ieee118 pinn s1 ep1 loss 11.447 vnll 0.274 V 0.00033 ang 0.3475 lr 3e-04 14s
+ieee118 pinn s2 ep1 loss 12.625 vnll -0.441 V 0.00032 ang 0.3407 lr 3e-04 15s
+ieee118 pinn_fixed s0 ep1 loss 1.217 vnll -1.185 V 0.00030 ang 0.3213 lr 3e-04 14s
+ieee118 pinn_noconf s0 ep1 loss 11.979 vnll 2.697 V 0.00038 ang 0.4830 lr 3e-04 14s
+ieee118 pinn s1 ep2 loss 4.890 vnll 0.076 V 0.00035 ang 0.3183 lr 3e-04 27s
+ieee118 pinn_fixed s0 ep2 loss 0.558 vnll -1.008 V 0.00032 ang 0.3314 lr 3e-04 27s
+ieee118 pinn s2 ep2 loss 5.483 vnll -0.070 V 0.00036 ang 0.3199 lr 3e-04 28s
+ieee118 pinn_noconf s0 ep2 loss 4.719 vnll 0.901 V 0.00038 ang 0.4000 lr 3e-04 28s
+ieee118 pinn s1 ep3 loss 4.392 vnll 0.278 V 0.00037 ang 0.3448 lr 3e-04 41s
+ieee118 pinn_fixed s0 ep3 loss 0.533 vnll -1.491 V 0.00033 ang 0.3093 lr 3e-04 40s
+ieee118 pinn_noconf s0 ep3 loss 4.207 vnll 0.128 V 0.00040 ang 0.3880 lr 3e-04 41s
+ieee118 pinn s2 ep3 loss 4.678 vnll -0.239 V 0.00037 ang 0.3121 lr 3e-04 42s
+ieee118 pinn s2 ep4 loss 1.945 vnll -2.290 V 0.00025 ang 0.2854 lr 3e-04 57s
+ieee118 pinn s1 ep4 loss 1.887 vnll -2.310 V 0.00025 ang 0.2814 lr 3e-04 57s
+ieee118 pinn_noconf s0 ep4 loss 2.060 vnll -2.279 V 0.00025 ang 0.2898 lr 3e-04 57s
+ieee118 pinn_fixed s0 ep4 loss -2.038 vnll -2.341 V 0.00024 ang 0.2793 lr 3e-04 58s
+ieee118 pinn s2 ep5 loss 1.803 vnll -2.352 V 0.00024 ang 0.2817 lr 3e-04 72s
+ieee118 pinn_fixed s0 ep5 loss -2.174 vnll -2.371 V 0.00024 ang 0.2752 lr 3e-04 75s
+ieee118 pinn s1 ep5 loss 1.342 vnll -2.326 V 0.00024 ang 0.2789 lr 3e-04 75s
+ieee118 pinn_noconf s0 ep5 loss 1.514 vnll -2.354 V 0.00024 ang 0.2797 lr 3e-04 76s
+ieee118 pinn s2 ep6 loss 1.580 vnll -2.356 V 0.00024 ang 0.2822 lr 3e-04 89s
+ieee118 pinn_fixed s0 ep6 loss -2.262 vnll -2.352 V 0.00024 ang 0.2754 lr 3e-04 91s
+ieee118 pinn s1 ep6 loss 1.346 vnll -2.323 V 0.00024 ang 0.2816 lr 3e-04 91s
+ieee118 pinn_noconf s0 ep6 loss 1.085 vnll -2.365 V 0.00024 ang 0.2795 lr 3e-04 92s
+ieee118 pinn s1 ep7 loss 1.032 vnll -2.331 V 0.00024 ang 0.2781 lr 3e-04 107s
+ieee118 pinn s2 ep8 loss 1.101 vnll -2.364 V 0.00024 ang 0.2807 lr 3e-04 121s
+ieee118 pinn s1 ep8 loss 1.005 vnll -2.332 V 0.00024 ang 0.2763 lr 3e-04 123s
+ieee118 pinn s2 ep10 loss 0.993 vnll -2.376 V 0.00024 ang 0.2825 lr 3e-04 156s
+ieee118 pinn s1 ep11 loss 0.684 vnll -2.324 V 0.00024 ang 0.2763 lr 3e-04 170s
+ieee118 pinn_fixed s0 ep11 loss -2.241 vnll -2.320 V 0.00024 ang 0.2707 lr 1e-04 171s
+ieee118 pinn s2 ep11 loss 0.769 vnll -2.270 V 0.00025 ang 0.2943 lr 3e-04 173s
+ieee118 pinn_noconf s0 ep11 loss 0.852 vnll -2.362 V 0.00024 ang 0.2784 lr 3e-04 175s
+ieee118 pinn s1 ep13 loss 0.795 vnll -2.342 V 0.00024 ang 0.2759 lr 3e-04 202s
+ieee118 pinn_fixed s0 ep16 loss -2.439 vnll -2.159 V 0.00024 ang 0.2716 lr 1e-04 241s
+ieee118 pinn s1 ep16 loss 0.280 vnll -2.319 V 0.00024 ang 0.2746 lr 3e-04 246s
+ieee118 pinn s2 ep16 loss 0.381 vnll -2.363 V 0.00024 ang 0.2805 lr 1e-04 248s
+ieee118 pinn_noconf s0 ep16 loss -0.270 vnll -2.328 V 0.00024 ang 0.2733 lr 1e-04 254s
+ieee118 pinn s1 ep19 loss 0.425 vnll -2.391 V 0.00024 ang 0.2782 lr 3e-04 285s
+ieee118 pinn s2 ep20 loss -0.199 vnll -2.379 V 0.00024 ang 0.2756 lr 1e-04 300s
+ieee118 pinn_fixed s0 ep21 loss -2.488 vnll -2.170 V 0.00023 ang 0.2662 lr 7e-05 309s
+ieee118 pinn s1 ep21 loss 0.231 vnll -2.301 V 0.00024 ang 0.2732 lr 3e-04 312s
+ieee118 pinn s2 ep21 loss -0.302 vnll -2.315 V 0.00024 ang 0.2764 lr 1e-04 315s
+ieee118 pinn_noconf s0 ep21 loss -0.519 vnll -2.278 V 0.00023 ang 0.2712 lr 7e-05 320s
+ieee118 pinn_fixed s0 ep26 loss -2.510 vnll -2.121 V 0.00023 ang 0.2653 lr 4e-05 374s
+ieee118 pinn s1 ep26 loss -0.477 vnll -2.245 V 0.00024 ang 0.2724 lr 1e-04 379s
+ieee118 pinn s2 ep26 loss -0.319 vnll -2.298 V 0.00024 ang 0.2751 lr 7e-05 384s
+ieee118 pinn_noconf s0 ep26 loss -0.620 vnll -2.254 V 0.00023 ang 0.2702 lr 4e-05 393s
+done ieee118 pinn_fixed 0 431s epochs 30 best val nll -2.3705
+done ieee118 pinn 1 432s epochs 30 best val nll -2.391
+done ieee118 pinn 2 437s epochs 30 best val nll -2.3788
+Traceback (most recent call last):
+  File "C:\Users\venka\OneDrive\Desktop\hpinn-se-paper\scripts\nn.py", line 270, in <module>
+    info = train(system, variant, seed, nlab, prefix, max_epochs=ep)
+  File "C:\Users\venka\OneDrive\Desktop\hpinn-se-paper\scripts\nn.py", line 145, in train
+    net.load_state_dict(torch.load(os.path.join(MODELS_INIT, system, init + '.pt'), weights_only=False)['state'])
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\venka\AppData\Roaming\Python\Python315\site-packages\torch\nn\modules\module.py", line 2647, in load_state_dict
+    raise RuntimeError(
+    ...<3 lines>...
+    )
+RuntimeError: Error(s) in loading state_dict for Net:
+	size mismatch for trunk.0.weight: copying a param with shape torch.Size([256, 1638]) from checkpoint, the shape in current model is torch.Size([256, 546]).
+done ieee118 pinn_noconf 0 446s epochs 30 best val nll -2.3646
+ieee118 pinn_nomeas s0 ep1 loss 0.833 vnll 0.339 V 0.00034 ang 0.4739 lr 3e-04 9s
+ieee118 pinn_nophys s0 ep1 loss 3.367 vnll -1.904 V 0.00028 ang 0.2771 lr 3e-04 10s
+ieee118 pinn_nomeas s0 ep2 loss 0.160 vnll 0.808 V 0.00037 ang 0.4990 lr 3e-04 19s
+ieee118 pinn_nophys s0 ep2 loss 3.034 vnll -1.890 V 0.00028 ang 0.2786 lr 3e-04 20s
+ieee118 pinn_nomeas s0 ep3 loss 0.168 vnll -0.291 V 0.00038 ang 0.4474 lr 3e-04 29s
+ieee118 pinn_nophys s0 ep3 loss 2.897 vnll -1.910 V 0.00029 ang 0.2800 lr 3e-04 31s
+ieee118 pinn_nomeas s0 ep4 loss -2.152 vnll -2.378 V 0.00024 ang 0.2857 lr 3e-04 40s
+ieee118 pinn_nophys s0 ep4 loss 0.188 vnll -2.378 V 0.00024 ang 0.2763 lr 3e-04 42s
+ieee118 pinn_nomeas s0 ep5 loss -2.412 vnll -2.379 V 0.00025 ang 0.3055 lr 3e-04 51s
+ieee118 pinn_nomeas s0 ep6 loss -2.482 vnll -2.413 V 0.00024 ang 0.2777 lr 3e-04 64s
+ieee118 pinn_nophys s0 ep6 loss -0.093 vnll -2.357 V 0.00024 ang 0.2690 lr 3e-04 76s
+ieee118 pinn_nomeas s0 ep11 loss -2.429 vnll -2.085 V 0.00026 ang 0.2810 lr 3e-04 129s
+ieee118 pinn_nophys s0 ep11 loss -0.494 vnll -2.337 V 0.00023 ang 0.2587 lr 1e-04 147s
+ieee118 pinn_nomeas s0 ep16 loss -2.737 vnll -2.255 V 0.00024 ang 0.2705 lr 1e-04 209s
+ieee118 pinn_nophys s0 ep16 loss -0.642 vnll -2.272 V 0.00023 ang 0.2549 lr 7e-05 234s
+ieee118 pinn_nomeas s0 ep21 loss -2.782 vnll -2.192 V 0.00024 ang 0.2700 lr 7e-05 302s
+ieee118 pinn_nophys s0 ep21 loss -0.737 vnll -2.215 V 0.00023 ang 0.2526 lr 7e-05 312s
+ieee118 pinn_nomeas s0 ep26 loss -2.804 vnll -2.136 V 0.00023 ang 0.2677 lr 4e-05 358s
+ieee118 pinn_nophys s0 ep26 loss -0.788 vnll -2.174 V 0.00023 ang 0.2510 lr 4e-05 369s
+done ieee118 pinn_nomeas 0 391s epochs 30 best val nll -2.4135
+done ieee118 pinn_nophys 0 401s epochs 30 best val nll -2.3784
+ALL DONE 901s

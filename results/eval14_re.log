@@ -1,0 +1,24 @@
+ieee14 calibration done 51s
+  nominal 64s
+  noise0.5 72s
+  noise2 83s
+  noise3 102s
+  noise4 121s
+  contam 141s
+  miss5 151s
+  miss10 160s
+  miss20 171s
+  miss30 185s
+  miss40 193s
+  miss50 204s
+  area 213s
+  bias3 224s
+  bias6 240s
+  bias10 253s
+  param2 263s
+  param5 276s
+  param10 290s
+  shift 317s
+  shift_miss30 338s
+  mix 359s
+ieee14 evaluation done 359s

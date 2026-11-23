@@ -1,0 +1,10 @@
+ieee14 calibration thresholds reused
+  bias6 252s
+  bias10 371s
+  param2 442s
+  param5 518s
+  param10 600s
+  shift 890s
+  shift_miss30 1000s
+  mix 1116s
+ieee14 evaluation done 1116s

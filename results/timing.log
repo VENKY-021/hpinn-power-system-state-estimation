@@ -1,0 +1,3 @@
+ieee14 {'wls': 6.2, 'rwls': 14.1, 'ep_rwls': 12.0, 'nn': 0.1, 'dnn_gn': 3.8, 'hy': 9.6, 'hy_nocov': 9.7, 'hyep_noev': 11.3, 'safeguard': 1.8, 'hyep': 12.8, 'hyep_nocov': 12.9, 'hyep_shift': 17.2}
+ieee30 {'wls': 4.9, 'rwls': 15.5, 'ep_rwls': 13.9, 'nn': 0.1, 'dnn_gn': 5.1, 'hy': 12.7, 'hy_nocov': 12.8, 'hyep_noev': 12.9, 'safeguard': 2.5, 'hyep': 15.6, 'hyep_nocov': 15.4, 'hyep_shift': 21.6}
+ieee118 {'wls': 13.9, 'rwls': 40.3, 'ep_rwls': 34.7, 'nn': 0.2, 'dnn_gn': 10.4, 'hy': 33.3, 'hy_nocov': 32.4, 'hyep_noev': 34.9, 'safeguard': 31.0, 'hyep': 66.5, 'hyep_nocov': 65.1, 'hyep_shift': 108.1}

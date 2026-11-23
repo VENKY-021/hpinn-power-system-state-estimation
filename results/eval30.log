@@ -1,0 +1,14 @@
+ieee30 calibration thresholds reused
+  miss40 76s
+  miss50 141s
+  area 212s
+  bias3 295s
+  bias6 507s
+  bias10 602s
+  param2 650s
+  param5 724s
+  param10 802s
+  shift 1016s
+  shift_miss30 1058s
+  mix 1186s
+ieee30 evaluation done 1186s

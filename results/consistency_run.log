@@ -1,0 +1,2 @@
+ieee14 {'dnn': {'zi_mismatch': 0.002409, 'residual_rms': 1.351098}, 'pinn': {'zi_mismatch': 0.001063, 'residual_rms': 1.039151}, 'wls': {'zi_mismatch': 1e-06, 'residual_rms': 0.766136}, 'hyep': {'zi_mismatch': 1e-06, 'residual_rms': 0.882871}}
+ieee30 {'dnn': {'zi_mismatch': 0.001051, 'residual_rms': 1.145923}, 'pinn': {'zi_mismatch': 0.000313, 'residual_rms': 1.017402}, 'wls': {'zi_mismatch': 0.0, 'residual_rms': 0.762647}, 'hyep': {'zi_mismatch': 1e-06, 'residual_rms': 0.881546}}

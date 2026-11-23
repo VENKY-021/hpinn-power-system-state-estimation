@@ -1,0 +1,5 @@
+ieee14 {'N': 14, 'nx': 27, 'M': 62, 'h_ms': 0.01, 'jac_ms': 1.65, 'gain_ms': 0.01, 'chol_ms': 0.04, 'inv_ms': 0.02, 'ev_ms': 1.91, 'nn_ms': 0.05, 'wls_ms': 6.3, 'wls_iters': 4, 'iter_ms': 1.71, 'params': 80438}
+ieee30 {'N': 30, 'nx': 59, 'M': 126, 'h_ms': 0.01, 'jac_ms': 1.48, 'gain_ms': 0.03, 'chol_ms': 0.03, 'inv_ms': 0.04, 'ev_ms': 2.42, 'nn_ms': 0.06, 'wls_ms': 5.0, 'wls_iters': 3, 'iter_ms': 1.55, 'params': 206710}
+ieee118 {'N': 118, 'nx': 235, 'M': 546, 'h_ms': 0.02, 'jac_ms': 1.78, 'gain_ms': 1.17, 'chol_ms': 0.29, 'inv_ms': 0.9, 'ev_ms': 32.94, 'nn_ms': 0.1, 'wls_ms': 14.31, 'wls_iters': 4, 'iter_ms': 3.26, 'params': 737750}
+ieee300 {'N': 300, 'nx': 599, 'M': 1270, 'h_ms': 0.02, 'jac_ms': 7.32, 'gain_ms': 16.96, 'chol_ms': 3.36, 'inv_ms': 14.39, 'ev_ms': 313.56, 'nn_ms': 0.17, 'wls_ms': 171.95, 'wls_iters': 5, 'iter_ms': 27.66, 'params': 1480878}
+slopes {'iter_ms': 0.8639041432923963, 'nn_ms': 0.3965200184942975, 'chol_ms': 1.527097920049836, 'gain_ms': 2.6120338021411658, 'jac_ms': 0.4391844617123195, 'ev_ms': 1.7185138084937284}

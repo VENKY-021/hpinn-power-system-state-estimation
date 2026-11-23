@@ -1,0 +1,6 @@
+ieee14 nominal {'hyep_noev': 0.988, 'hyep': 0.988, 'eprob': 0.981}
+ieee14 shift {'hyep_noev': 1.371, 'hyep': 1.039, 'eprob': 1.366}
+ieee30 nominal {'hyep_noev': 0.953, 'hyep': 0.953, 'eprob': 0.951}
+ieee30 shift {'hyep_noev': 1.535, 'hyep': 1.007, 'eprob': 1.3}
+ieee118 nominal {'hyep_noev': 0.921, 'hyep': 0.921, 'eprob': 0.894}
+ieee118 shift {'hyep_noev': 3.984, 'hyep': 0.911, 'eprob': 2.127}

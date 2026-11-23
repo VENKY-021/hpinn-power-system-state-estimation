@@ -1,0 +1,22 @@
+ieee30 calibration done 75s
+  nominal 82s
+  noise0.5 92s
+  noise2 102s
+  noise3 112s
+  noise4 121s
+  contam 131s
+  miss5 138s
+  miss10 145s
+  miss20 153s
+  miss30 161s
+  miss40 167s
+  miss50 175s
+  area 182s
+  bias3 189s
+  bias6 198s
+  bias10 208s
+  param2 216s
+  param5 223s
+  param10 231s
+  mix 239s
+ieee30 evaluation done 239s

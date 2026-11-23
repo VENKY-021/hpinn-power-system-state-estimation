@@ -1,0 +1,18 @@
+ieee14 dnn s0 ep1 loss 0.226 vnll 0.093 V 0.00235 ang 0.2926 lr 1e-03 0s
+ieee14 dnn s0 ep2 loss 0.065 vnll 0.049 V 0.00142 ang 0.2535 lr 1e-03 1s
+ieee14 dnn s0 ep3 loss 0.043 vnll 0.040 V 0.00123 ang 0.2254 lr 1e-03 1s
+ieee14 dnn s0 ep4 loss -0.646 vnll -0.881 V 0.00118 ang 0.2286 lr 1e-03 1s
+ieee14 dnn s0 ep5 loss -1.084 vnll -1.051 V 0.00106 ang 0.2232 lr 1e-03 1s
+ieee14 dnn s0 ep6 loss -1.225 vnll -1.202 V 0.00096 ang 0.1918 lr 1e-03 2s
+ieee14 dnn s0 ep7 loss -1.305 vnll -1.271 V 0.00091 ang 0.1835 lr 1e-03 2s
+ieee14 dnn s0 ep8 loss -1.381 vnll -1.275 V 0.00087 ang 0.1759 lr 1e-03 2s
+ieee14 dnn s0 ep9 loss -1.438 vnll -1.307 V 0.00087 ang 0.1889 lr 1e-03 3s
+ieee14 dnn s0 ep10 loss -1.474 vnll -1.369 V 0.00083 ang 0.1752 lr 1e-03 3s
+ieee14 dnn s0 ep11 loss -1.515 vnll -1.316 V 0.00084 ang 0.1919 lr 1e-03 3s
+ieee14 dnn s0 ep12 loss -1.534 vnll -1.406 V 0.00081 ang 0.1740 lr 1e-03 3s
+ieee14 dnn s0 ep15 loss -1.603 vnll -1.426 V 0.00079 ang 0.1702 lr 1e-03 4s
+ieee14 dnn s0 ep16 loss -1.620 vnll -1.409 V 0.00079 ang 0.1686 lr 1e-03 5s
+ieee14 dnn s0 ep17 loss -1.642 vnll -1.449 V 0.00078 ang 0.1672 lr 1e-03 5s
+ieee14 dnn s0 ep21 loss -1.682 vnll -1.356 V 0.00077 ang 0.1691 lr 1e-03 6s
+ieee14 dnn s0 ep26 loss -1.823 vnll -1.151 V 0.00075 ang 0.1614 lr 5e-04 8s
+done ieee14 dnn 0 8s epochs 27 best val nll -1.4493

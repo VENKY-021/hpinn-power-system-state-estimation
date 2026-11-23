@@ -1,0 +1,12 @@
+ieee118 pinn s0 ep1 loss 12.166 vnll 0.127 V 0.00034 ang 0.3480 lr 3e-04 35s
+ieee118 pinn s0 ep2 loss 4.816 vnll -0.404 V 0.00035 ang 0.3245 lr 3e-04 69s
+ieee118 pinn s0 ep3 loss 4.517 vnll -0.665 V 0.00037 ang 0.3295 lr 3e-04 106s
+ieee118 pinn s0 ep4 loss 2.080 vnll -2.312 V 0.00024 ang 0.2792 lr 3e-04 141s
+ieee118 pinn s0 ep6 loss 1.691 vnll -2.335 V 0.00024 ang 0.2781 lr 3e-04 218s
+ieee118 pinn s0 ep7 loss 1.113 vnll -2.353 V 0.00024 ang 0.2815 lr 3e-04 254s
+ieee118 pinn s0 ep11 loss 0.819 vnll -2.350 V 0.00024 ang 0.2757 lr 3e-04 394s
+ieee118 pinn s0 ep12 loss 0.688 vnll -2.354 V 0.00024 ang 0.2751 lr 3e-04 429s
+ieee118 pinn s0 ep16 loss 0.187 vnll -2.288 V 0.00024 ang 0.2755 lr 3e-04 559s
+ieee118 pinn s0 ep21 loss -0.374 vnll -2.291 V 0.00023 ang 0.2699 lr 1e-04 720s
+ieee118 pinn s0 ep26 loss -0.599 vnll -2.248 V 0.00023 ang 0.2681 lr 7e-05 890s
+done ieee118 pinn 0 969s epochs 30 best val nll -2.3536

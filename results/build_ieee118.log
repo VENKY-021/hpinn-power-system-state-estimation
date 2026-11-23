@@ -1,0 +1,24 @@
+ieee118 train/val/cal done 131s
+  nominal 139s
+  noise0.5 143s
+  noise2 148s
+  noise3 153s
+  noise4 159s
+  contam 164s
+  miss5 169s
+  miss10 174s
+  miss20 179s
+  miss30 183s
+  miss40 188s
+  miss50 191s
+  area 195s
+  bias3 202s
+  bias6 208s
+  bias10 213s
+  param2 222s
+  param5 230s
+  param10 239s
+  shift 245s
+  shift_miss30 249s
+  mix 260s
+ieee118 all datasets done 260s

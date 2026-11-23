@@ -1,0 +1,16 @@
+ieee14 noise0.5 {'true_eta': 0.5, 'est_mean': 0.54, 'est_median': 0.52, 'est_p10': 0.5, 'est_p90': 0.64}
+ieee14 nominal {'true_eta': 1.0, 'est_mean': 0.98, 'est_median': 0.99, 'est_p10': 0.79, 'est_p90': 1.16}
+ieee14 noise2 {'true_eta': 2.0, 'est_mean': 1.84, 'est_median': 1.84, 'est_p10': 1.53, 'est_p90': 2.17}
+ieee14 noise3 {'true_eta': 3.0, 'est_mean': 2.83, 'est_median': 2.82, 'est_p10': 2.29, 'est_p90': 3.43}
+ieee14 noise4 {'true_eta': 4.0, 'est_mean': 3.78, 'est_median': 3.69, 'est_p10': 3.13, 'est_p90': 4.61}
+ieee14 contam {'true_eta': 1.0, 'est_mean': 1.38, 'est_median': 1.35, 'est_p10': 1.01, 'est_p90': 1.72}
+ieee14 bias6 {'true_eta': 1.0, 'est_mean': 1.17, 'est_median': 1.18, 'est_p10': 0.92, 'est_p90': 1.4}
+ieee14 param5 {'true_eta': 1.0, 'est_mean': 1.13, 'est_median': 1.12, 'est_p10': 0.89, 'est_p90': 1.38}
+ieee30 noise0.5 {'true_eta': 0.5, 'est_mean': 0.53, 'est_median': 0.51, 'est_p10': 0.5, 'est_p90': 0.59}
+ieee30 nominal {'true_eta': 1.0, 'est_mean': 0.96, 'est_median': 0.97, 'est_p10': 0.8, 'est_p90': 1.1}
+ieee30 noise2 {'true_eta': 2.0, 'est_mean': 1.89, 'est_median': 1.9, 'est_p10': 1.64, 'est_p90': 2.19}
+ieee30 noise3 {'true_eta': 3.0, 'est_mean': 2.81, 'est_median': 2.82, 'est_p10': 2.41, 'est_p90': 3.27}
+ieee30 noise4 {'true_eta': 4.0, 'est_mean': 3.76, 'est_median': 3.77, 'est_p10': 3.32, 'est_p90': 4.27}
+ieee30 contam {'true_eta': 1.0, 'est_mean': 1.32, 'est_median': 1.35, 'est_p10': 1.08, 'est_p90': 1.53}
+ieee30 bias6 {'true_eta': 1.0, 'est_mean': 1.09, 'est_median': 1.08, 'est_p10': 0.93, 'est_p90': 1.23}
+ieee30 param5 {'true_eta': 1.0, 'est_mean': 0.99, 'est_median': 0.98, 'est_p10': 0.85, 'est_p90': 1.14}
